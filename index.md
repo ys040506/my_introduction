@@ -1,63 +1,34 @@
 ---
 layout: default
-title: Yuu Shimizu
-description: Software, Data and Research
+title: Yu SHIMIZU
+description: Undergraduate student of UTokyo
 avatar: /my_profile_picture.jpg
 ---
 
-ソフトウェア開発、データ分析、リサーチを軸に、日々の学びと制作を形にしています。小さく試し、仕組みに落とし込み、使いやすい体験へ育てることに関心があります。
+## Summary
 
-## 自己紹介
+Undergraduate student majoring in Applied Mathematics at the University of Tokyo, with experience in quantitative finance and learning theroy. Interested in algorithmic trading, portfolio optimization, and the intersection of nonliner model and financial market.
 
-こんにちは。清水です。このサイトでは、自己紹介、制作物、学習記録、連絡先をまとめています。
+## Work Experience
 
-現在は、Web アプリケーション、データ処理、業務自動化、AI 活用の周辺領域に関心があります。実装だけでなく、背景を調べ、整理し、再利用できる形で記録することも重視しています。
+### Quantitative Researcher Intern, GCI Asset Management, Tokyo, Japan
+_Aug 2024 – Present_
+(https://www.gci.jp/jp/)
 
-## 主な活動領域
+## Education
 
-### Web Development
+**The University of Tokyo, Tokyo, Japan**
 
-静的サイトから小さな Web アプリまで、目的に合わせて構成します。
+- **Bachelor of Engineering**, Department of Mathematical Engineering and Information Physics (MEIP)
+  _Expected Graduation: Mar 2027_
 
-### Data Workflow
+- **Master of Information Science and Technology (Incoming)**, Mathematical Informatics
+  _Apr 2027 – Mar 2029 (expected)_
 
-収集、整形、可視化、レポート化までの流れを扱いやすくします。
 
-### Research Notes
 
-調査した内容を後から使える知識として整理し、発信します。
-
-## 関心のあるテーマ
-
-- ソフトウェア開発・Web アプリケーション
-- データ分析・機械学習
-- 業務自動化
-- リサーチ・ナレッジ管理
-
-## 制作物と発信
-
-### GitHub Projects
-
-実装したツール、検証用のコード、学習プロジェクトをまとめています。
-
-[GitHub](https://github.com/)
-
-### Articles and Notes
-
-技術メモ、調査ログ、考えたことを文章として残しています。
-
-[note](https://note.com/)
-
-### Small Tools
-
-日々の作業を軽くするスクリプトやワークフローを作ります。繰り返し作業を減らすことに価値を置いています。
-
-## 連絡先・リンク
+## Contact
 
 <!-- メールアドレスと各サービスのリンクをご自身のものに差し替えてください。 -->
-- [Email](mailto:your.email@example.com)
-- [GitHub](https://github.com/)
-- [X](https://x.com/)
-- [note](https://note.com/)
-- [Qiita](https://qiita.com/)
-- [LinkedIn](https://www.linkedin.com/)
+- [Email](mailto:betelgeuse0506@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/purewater-yu)

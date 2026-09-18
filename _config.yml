@@ -1,5 +1,3 @@
 markdown: kramdown
 kramdown:
   input: GFM
-exclude:
-  - README.md
