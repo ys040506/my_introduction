@@ -13,7 +13,6 @@ Undergraduate student majoring in Applied Mathematics at the University of Tokyo
 
 ### Quantitative Researcher Intern, GCI Asset Management, Tokyo, Japan
 _Aug 2024 – Present_
-(https://www.gci.jp/jp/)
 
 ## Education
 
