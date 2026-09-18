@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title | escape }}</title>
+    <meta name="description" content="{{ page.description | escape }}" />
+    <meta property="og:title" content="{{ page.title | escape }}" />
+    <meta property="og:description" content="{{ page.description | escape }}" />
+    <meta property="og:type" content="profile" />
+    <link rel="icon" type="image/jpeg" href="{{ page.avatar | relative_url }}" />
+    <link rel="stylesheet" href="{{ '/styles.css' | relative_url }}" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">本文へ移動</a>
+    <main id="main" class="page">
+      <header class="profile">
+        <img class="avatar" src="{{ page.avatar | relative_url }}" alt="{{ page.title | escape }}のプロフィール画像" width="112" height="112" />
+        <h1>{{ page.title | escape }}</h1>
+        <p class="description">{{ page.description | escape }}</p>
+      </header>
+      <article class="markdown-body" aria-label="プロフィール本文">
+        {{ content }}
+      </article>
+    </main>
+  </body>
+</html>
